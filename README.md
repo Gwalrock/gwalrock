@@ -6,6 +6,7 @@
 
 - 📫 How to reach me:  
 Web: https://www.hackbysecurity.com  
+Training: https://academy.hackbysecurity.com/  
 Twitter: @gwalrock  
 MyPublicInbox: https://mypublicinbox.com/gwalrock  
 Youtube: https://www.youtube.com/@gwalrockscave7025  
